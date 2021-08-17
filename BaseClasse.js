@@ -1,3 +1,4 @@
+//import da biblioteca React
 import React from "react";
 
 export default class BaseClasse extends React.Component{
