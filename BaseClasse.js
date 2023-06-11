@@ -1,6 +1,6 @@
 import React from "react";
 
-export default class BaseClasse extends React.Component{
+export default class ClasseBase extends React.Component{
     constructor(props){
         //Para permitir o uso de props
         super(props)
